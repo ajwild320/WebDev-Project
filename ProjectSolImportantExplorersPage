@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T04:30:56.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="pi-u_8XIEZ5t4F33jjeN" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T04:31:44.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="ZpiBqOrcppRlvjd0uUrJ" version="20.3.6" type="github">
   <diagram id="wtu8bqMIOA5nikrAdDYa" name="Page-1">
     <mxGraphModel dx="1375" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="880" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-2" value="projectSol.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-3" value="https://www.projectSol/ImportantSolarEvents.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-4" value="Important Solar Events" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="385" y="145" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fontSize=15;fillColor=default;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="50" y="240" width="770" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-6" value="Place Image Here" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="395" y="267.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-7" value="&lt;h1&gt;Cool Fact&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="50" y="340" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-8" value="&lt;h1&gt;Cool Fact&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="630" y="340" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fontSize=15;fillColor=default;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="50" y="510" width="770" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-10" value="Primary Information Point on the particular event or occurrence." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="280" y="340" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-11" value="Event Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="372.5" y="195" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-12" value="Place Image Here" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="405" y="537.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-13" value="&lt;h1&gt;Cool Fact&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="50" y="615" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-14" value="&lt;h1&gt;Cool Fact&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="630" y="615" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-15" value="Primary Information Point on the particular event or occurrence." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="287.5" y="620" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-16" value="Event Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="380" y="470" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fontSize=15;fillColor=default;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="40" y="790" width="770" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-18" value="Place Image Here" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="395" y="817.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-19" value="Event Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="380" y="750" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-20" value="&lt;h1&gt;Cool Fact&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="40" y="895" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-21" value="&lt;h1&gt;Cool Fact&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="620" y="895" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lm9iCc70PVWCYiM1TVkX-22" value="Primary Information Point on the particular event or occurrence." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lm9iCc70PVWCYiM1TVkX-1">
+          <mxGeometry x="280" y="900" width="290" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
